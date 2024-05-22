@@ -1,0 +1,5 @@
+{
+  "volto-plone-vercel-test": {
+    "local": "addons/volto-plone-vercel-test/src"
+  }
+}

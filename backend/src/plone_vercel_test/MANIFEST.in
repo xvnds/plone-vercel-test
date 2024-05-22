@@ -1,0 +1,6 @@
+graft src/plone_vercel_test
+graft docs
+include *.rst
+include *.md
+include *.cfg
+global-exclude *.pyc

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer interface="plone_vercel_test.interfaces.IPloneVercelTestLayer"
+         name="plone_vercel_test"
+  />
+</layers>

@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store plone-vercel-test.example.com postgres data
+  - path: "/srv/plone-vercel-test/data"
+    owner: 999
+    group: 999
+    mode: "0750"
