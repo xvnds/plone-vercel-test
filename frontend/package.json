@@ -4,7 +4,7 @@
   "license": "MIT",
   "version": "1.0.0",
   "scripts": {
-    "start": "razzle start",
+    "start": "npm run start:prod",
     "postinstall": "make omelette && make patches",
     "build": "razzle build --noninteractive",
     "lint": "./node_modules/eslint/bin/eslint.js --max-warnings=0 'src/**/*.{js,jsx,ts,tsx}'",
